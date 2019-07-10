@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+	font-family: "Meiryo", Helvetica, Arial, sans-serif;
+}
+
+
+p.gothic {font-family: "ＭＳ ゴシック",sans-serif; }
+p.mincho {font-family: "ＭＳ 明朝",serif; }
+p.meiryo {font-family: "Meiryo", Helvetica, Arial, sans-serif; }
